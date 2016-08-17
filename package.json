@@ -1,5 +1,5 @@
 {
-  "name": "humaan-demo-webpack-react-app",
+  "name": "demo-webpack-react-app",
   "version": "1.0.0",
   "description": "A basic environment for writing React apps in ES6 and built using webpack",
   "private": true,
